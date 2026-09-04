@@ -1,0 +1,7 @@
+question,faithfulness,answer_relevancy,context_precision
+What is your return policy?,0.8,0.8,0.8
+How long does standard shipping take?,0.5,0.8,0.8
+What should I do if my item arrives damaged?,0.8,0.8,0.8
+How many hours of battery life do the Aurora Wireless Headphones have?,0.5,0.5,0.8
+How much total revenue came from the West region?,0.5,0.5,0.5
+How many orders were placed in the South region?,0.5,0.8,0.8
